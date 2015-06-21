@@ -27,6 +27,5 @@ In resume, this script:
 * and exit a data text file (tidy_data.txt) what contain a data set with the average of each variable for each activity and each subject.
 **You can find some considerable execution details in source code.**
 > That's all folks!
-###Apologies
-Sorry for my english... :(
+
 
